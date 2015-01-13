@@ -1,0 +1,482 @@
+
+ui.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+UIP/tapface
+  rotate: false
+  xy: 1, 53
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UIP/icon_cancel_down
+  rotate: false
+  xy: 203, 153
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UIP/icon_cancel
+  rotate: false
+  xy: 305, 153
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UIP/icono_recetas
+  rotate: false
+  xy: 203, 87
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UIP/icono_settings
+  rotate: false
+  xy: 407, 189
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UIP/icono_actualidad
+  rotate: false
+  xy: 269, 87
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UIP/icono_info
+  rotate: false
+  xy: 335, 87
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UIP/icon-search
+  rotate: false
+  xy: 1, 1
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UIP/checked_checkbox
+  rotate: false
+  xy: 53, 1
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UIP/unchecked_checkbox
+  rotate: false
+  xy: 105, 1
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UIP/radio_nochoice
+  rotate: false
+  xy: 407, 127
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+UIP/icon_submenu
+  rotate: false
+  xy: 157, 1
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UIP/radio_choice
+  rotate: false
+  xy: 401, 65
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+UIP/textfield
+  rotate: false
+  xy: 473, 203
+  size: 29, 50
+  orig: 29, 50
+  offset: 0, 0
+  index: -1
+UIP/icon_back
+  rotate: false
+  xy: 203, 53
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+UIP/icon
+  rotate: false
+  xy: 237, 45
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UIP/icon_smallsearch
+  rotate: false
+  xy: 279, 45
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UIP/icon_menu
+  rotate: false
+  xy: 209, 19
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+UIP/transparent2
+  rotate: false
+  xy: 469, 186
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+UIP/transparent
+  rotate: false
+  xy: 463, 124
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+UIP/bg_actionbar
+  rotate: false
+  xy: 401, 150
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+UIP/bg_white
+  rotate: false
+  xy: 404, 150
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+UIP/bg_mainmenu
+  rotate: false
+  xy: 473, 200
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+UIP/bg_gray
+  rotate: false
+  xy: 504, 252
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+
+ui2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+UIM/icono_recetas
+  rotate: false
+  xy: 1, 54
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UIM/icono_settings
+  rotate: false
+  xy: 67, 54
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UIM/icono_actualidad
+  rotate: false
+  xy: 133, 54
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UIM/icono_info
+  rotate: false
+  xy: 199, 54
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+UIM/bg_actionbar
+  rotate: false
+  xy: 1, 4
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+UIM/bg_listmenu_actionbar
+  rotate: false
+  xy: 265, 70
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+UIM/bg_ninepatch
+  rotate: false
+  xy: 51, 12
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UIM/bg_icon_caterogy
+  rotate: false
+  xy: 315, 78
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UIM/bg_icon_caterogy2
+  rotate: false
+  xy: 93, 12
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+UIM/ic_heart6
+  rotate: false
+  xy: 357, 96
+  size: 36, 22
+  orig: 36, 22
+  offset: 0, 0
+  index: -1
+UIM/ic_heart3
+  rotate: false
+  xy: 135, 28
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+UIM/ninepatch
+  rotate: false
+  xy: 1, 1
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+
+ui3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+UIA/store_app
+  rotate: false
+  xy: 1, 319
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+UIA/store_app_active
+  rotate: false
+  xy: 1, 125
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+UIA/bg1
+  rotate: false
+  xy: 195, 451
+  size: 242, 60
+  orig: 242, 60
+  offset: 0, 0
+  index: -1
+UIA/ninepatch
+  rotate: false
+  xy: 195, 349
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+UIA/ninepatch3
+  rotate: false
+  xy: 195, 247
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+UIA/ninepatch4
+  rotate: false
+  xy: 195, 145
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+UIA/ninepatch2
+  rotate: false
+  xy: 1, 23
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+UIA/transparents
+  rotate: false
+  xy: 1, 1
+  size: 100, 20
+  orig: 100, 20
+  offset: 0, 0
+  index: -1
+UIA/nine_paths
+  rotate: false
+  xy: 103, 1
+  size: 100, 20
+  orig: 100, 20
+  offset: 0, 0
+  index: -1
+UIA/bound1
+  rotate: false
+  xy: 439, 361
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+UIA/bound
+  rotate: false
+  xy: 591, 361
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+UIA/clock_icon
+  rotate: false
+  xy: 743, 397
+  size: 100, 114
+  orig: 100, 114
+  offset: 0, 0
+  index: -1
+UIA/loading
+  rotate: false
+  xy: 845, 411
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UIA/floatingButton
+  rotate: false
+  xy: 203, 43
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UIA/regback
+  rotate: false
+  xy: 947, 451
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+UIA/icon_cancel
+  rotate: false
+  xy: 305, 83
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+UIA/icon_save
+  rotate: false
+  xy: 947, 389
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+UIA/edit
+  rotate: false
+  xy: 305, 31
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UIA/camera
+  rotate: false
+  xy: 743, 345
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UIA/down
+  rotate: false
+  xy: 795, 345
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UIA/trash
+  rotate: false
+  xy: 847, 359
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UIA/up
+  rotate: false
+  xy: 367, 93
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UIA/9patch
+  rotate: false
+  xy: 847, 337
+  size: 60, 20
+  orig: 60, 20
+  offset: 0, 0
+  index: -1
+UIA/iconHeart
+  rotate: false
+  xy: 397, 419
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+UIA/sao
+  rotate: false
+  xy: 899, 379
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+UIA/cursor_highlight
+  rotate: false
+  xy: 397, 397
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+UIA/cursor_normal
+  rotate: false
+  xy: 397, 375
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+
+ui4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+UIN/line
+  rotate: false
+  xy: 1, 75
+  size: 480, 1
+  orig: 480, 1
+  offset: 0, 0
+  index: -1
+UIN/abs__spinner_48_inner_holo
+  rotate: false
+  xy: 1, 1
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+UIN/share
+  rotate: false
+  xy: 75, 13
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
