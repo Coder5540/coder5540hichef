@@ -18,8 +18,8 @@ allprojects {
     version = '1.0'
     ext {
         appName = 'Hichef'
-        gdxVersion = '1.4.1'
-        roboVMVersion = '0.0.13'
+        gdxVersion = '1.5.2'
+        roboVMVersion = '1.0.0-beta-01'
     }
 
     repositories {

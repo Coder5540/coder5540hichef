@@ -494,7 +494,7 @@ public class SearchViewV2 extends View {
 		}
 
 		for (int i = 0; i <= currentRow; i++) {
-			historyContent.add(row.get(i)).fillX().row().padTop(10);
+			historyContent.add(row.get(i)).fillX().padTop(10).row();
 		}
 		if (AppPreference.instance.size_listHistory > 0) {
 			btnClearHistory.setVisible(true);

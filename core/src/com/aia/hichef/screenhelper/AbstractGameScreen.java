@@ -23,6 +23,7 @@ import com.badlogic.gdx.scenes.scene2d.Stage;
 import com.badlogic.gdx.scenes.scene2d.Touchable;
 import com.badlogic.gdx.scenes.scene2d.ui.Label;
 import com.badlogic.gdx.scenes.scene2d.ui.Label.LabelStyle;
+import com.badlogic.gdx.utils.viewport.ExtendViewport;
 import com.badlogic.gdx.utils.viewport.StretchViewport;
 import com.badlogic.gdx.utils.viewport.Viewport;
 import com.gdx.hd.input.keyboard.VirtualKeyboard;
@@ -53,9 +54,14 @@ public abstract class AbstractGameScreen implements Screen, InputProcessor,
 	public void show() {
 		camera = new OrthographicCamera(Constants.WIDTH_SCREEN,
 				Constants.HEIGHT_SCREEN);
-		viewport = new StretchViewport(Constants.WIDTH_SCREEN,
-				Constants.HEIGHT_SCREEN, camera);
+//		viewport = new StretchViewport(Constants.WIDTH_SCREEN,
+//				Constants.HEIGHT_SCREEN, camera);
 
+		Constants.HEIGHT_SCREEN = (int) (Constants.WIDTH_SCREEN
+				* Gdx.graphics.getHeight() / Gdx.graphics.getWidth());
+		viewport = new ExtendViewport(Constants.WIDTH_SCREEN,
+				Constants.HEIGHT_SCREEN, camera);
+		
 		stage = new Stage(viewport);
 		toast = new Toast(stage);
 		touchPoint = new Vector2();

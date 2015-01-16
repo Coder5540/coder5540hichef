@@ -2,8 +2,8 @@ package com.aia.hichef.enums;
 
 public class Constants {
 
-	public static final int		HEIGHT_SCREEN		= (int)(800);
-	public static final int		WIDTH_SCREEN		= (int)(480);
+	public static  int		HEIGHT_SCREEN		= (int)(800);
+	public static  int		WIDTH_SCREEN		= (int)(480);
 //	public static final int		HEIGHT_SCREEN		= (int)(0.7*800);
 //	public static final int		WIDTH_SCREEN		= (int)(0.7*480);
 	public static final int		HEIGHT_ACTIONBAR	= 60;
